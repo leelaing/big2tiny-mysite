@@ -1,0 +1,37 @@
+{
+  "name": "big2tiny.com",
+  "version": "1.0.0",
+  "private": true,
+  "description": "New site",
+  "author": "Lee Laing &lt;big2tiny@gmail.com&gt;",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/vue-fontawesome": "^0.1.6",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/font-awesome": "^1.0.4",
+    "@nuxtjs/pwa": "^2.6.0",
+    "@nuxtjs/vuetify": "^0.5.7",
+    "cookieparser": "^0.1.0",
+    "firebase": "^6.3.1",
+    "js-cookie": "^2.2.0",
+    "jwt-decode": "^2.2.0",
+    "moment": "^2.24.0",
+    "nuxt": "^2.0.0",
+    "nuxt-fontawesome": "^0.4.0",
+    "vuetify-loader": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-cli-plugin-vuetify": "^0.5.0"
+  }
+}
